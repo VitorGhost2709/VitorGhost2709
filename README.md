@@ -12,7 +12,7 @@
    <h2 align="center" >⚙️ Códigos, caos e carisma robótico.</h2>
    
 <div align="center">
-  <img src="https://postimg.cc/QH6wMJYp](https://i.postimg.cc/MpxSdsyr/greenghost.avif" height="200"/>
+  <img src="" height="200"/>
 </div>
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
